@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747491547039",
+    "firebase_url": "https://oitchat.firebaseio.com",
+    "project_id": "oitchat",
+    "storage_bucket": "oitchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747491547039:android:ea00ce039447591f13cfaa",
+        "android_client_info": {
+          "package_name": "com.example.oit_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747491547039-70knggoht48tmj1inhc2gtlr57rdsi71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oit_chat",
+            "certificate_hash": "1bcc491f9a9fe4f744de67ec2f90f241e3b05e69"
+          }
+        },
+        {
+          "client_id": "747491547039-u5puld4mdkh5ch36av4pivu9o0hrr12d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVnLCCvxNDIoEt4lti4Tt4zrwwoXUNNjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747491547039-u5puld4mdkh5ch36av4pivu9o0hrr12d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
